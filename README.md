@@ -1,12 +1,25 @@
-# Hi, I'm Ashwin Dharmavaram 👋
+# Hi, I'm Ashwin 👋
 
-### AI/ML Developer | Tech Enthusiast | Open-Source Contributor
+### AI/ML Developer | Tech Enthusiast
 
 <!--
 ![GitHub followers](https://img.shields.io/github/followers/AshwinDEM?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AshwinDEM?style=social)
 -->
-Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and Machine Learning, and I love turning ideas into reality through code. When I'm not working on professional projects, you'll find me experimenting with new technologies, contributing to open-source, or building side projects.
+Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and Machine Learning, and I love turning ideas into reality through code. When I'm not working on professional projects, you'll find me experimenting with new technologies, or building side projects.
+
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinDEM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinDEM&layout=compact&theme=radical)
+
+---
+
+## 🛠️ **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 ---
 <!--
@@ -24,13 +37,14 @@ An advanced UAV collision avoidance system using RRT, Sparrow Search, Boids Algo
 ---
 -->
 
-## 🛠️ **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+### 📚 Currently Learning
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
 
 ---
 
@@ -44,8 +58,7 @@ An advanced UAV collision avoidance system using RRT, Sparrow Search, Boids Algo
 ---
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinDEM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinDEM&layout=compact&theme=radical)
+
 
 
 <!--
