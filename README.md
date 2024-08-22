@@ -9,7 +9,7 @@
 Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and Machine Learning, and I love turning ideas into reality through code. When I'm not working on professional projects, you'll find me experimenting with new technologies, or building side projects.
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinDEM&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinDEM&show_icons=true&theme=radical&hide=issues&show=reviews)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinDEM&layout=compact&theme=radical)
 
 ---
