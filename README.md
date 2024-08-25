@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/AshwinDEM?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AshwinDEM?style=social)
 -->
-Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and Machine Learning, and I love turning ideas into reality through code. When I'm not working on professional projects, you'll find me experimenting with new technologies, or building side projects.
+Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and Machine Learning, and I love turning ideas into reality through code. When I'm not working on professional projects, you'll find me experimenting with new technologies, or building side projects. 
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinDEM&show_icons=true&theme=radical)
