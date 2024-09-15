@@ -1,11 +1,13 @@
+<!--
+
 # Hi, I'm Ashwin 👋
 
 ### AI/ML Developer | Tech Enthusiast
 
-<!--
+
 ![GitHub followers](https://img.shields.io/github/followers/AshwinDEM?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AshwinDEM?style=social)
--->
+
 Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and Machine Learning, and I love turning ideas into reality through code. When I'm not working on professional projects, you'll find me experimenting with new technologies, or building side projects. 
 
 ---
@@ -19,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and M
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+-->
 
 ---
 <!--
@@ -37,41 +39,11 @@ An advanced UAV collision avoidance system using RRT, Sparrow Search, Boids Algo
 ---
 -->
 
-
+<!--
 
 ## 📚 Currently Learning
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-
-
-
----
-
-<!--
-## 📫 **Contact Me**
-
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Email**: youremail@example.com
-
----
 -->
 
 
-
-
-<!--
-**AshwinDEM/AshwinDEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
